@@ -7,6 +7,11 @@ developed using React.js, FastAPI, and MySQL.
 
 It stores business listings and displays analytical
 reports through interactive charts.
+## Live Demo & Project Links
+GitHub Repository - mystic8340-ai/buisness.
+Demo Video - 
+Database - https://drive.google.com/file/d/18UItdsJBVxxU5G6AFjgZUIFpEd0HGFLq/view?usp=sharing
+live host link - http://localhost:5173/
 
 ## Technologies Used
 
