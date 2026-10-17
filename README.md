@@ -1,4 +1,3 @@
-
 # Business Listings Dashboard
 
 ## Project Overview
