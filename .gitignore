@@ -1,0 +1,23 @@
+# Local credentials
+.env
+.env.*
+!.env.example
+
+# Python environments and generated files
+**/venv/
+**/.venv/
+**/__pycache__/
+*.py[cod]
+
+# Node dependencies and generated frontend assets
+**/node_modules/
+**/dist/
+**/.vite/
+
+# Local sample download from the scraper smoke test
+data/raw/html/example.html
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
